@@ -1,4 +1,4 @@
-## Hola, mi nombre es Paula González 👋
+## Hola, mi nombre es Paula González
 
 
 ## Acerca de mí
