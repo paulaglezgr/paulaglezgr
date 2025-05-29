@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hola, mi nombre es Paula González 👋
 
+[foto](https://github.com/user-attachments/assets/1e88db25-2caa-4247-89fa-c4d8bd93dca4)
 <!--
-**paulaglezgr/paulaglezgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paulaglezgr/paul!
+aglezgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
