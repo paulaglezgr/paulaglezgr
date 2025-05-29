@@ -3,6 +3,9 @@
 
 ## Acerca de mí
 
+Data Scientist en proceso
+
+Soy ingeniera química en transición hacia la Ciencia de Datos, con fuerte orientación analítica y pasión por convertir datos en decisiones. Actualmente desarrollo proyectos que combinan Python, SQL y estadística para resolver problemas reales mediante maching learning, análisis de datos y visualización.
 
 ## Habilidades
 
