@@ -1,11 +1,9 @@
 ## Hola, mi nombre es Paula González 👋
 
-[foto](https://github.com/user-attachments/assets/1e88db25-2caa-4247-89fa-c4d8bd93dca4)
-<!--
-**paulaglezgr/paul!
-aglezgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+## Acerca de mí
+![foto](https://github.com/user-attachments/assets/c609cbcc-1650-4dfc-9dc4-a152026b0ce6.jpg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
