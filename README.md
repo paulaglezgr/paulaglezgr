@@ -1,9 +1,10 @@
 ## Hola, mi nombre es Paula González 👋
 
+![ing de procesos jr](https://github.com/user-attachments/assets/e31010fd-fbac-428e-9487-3e6a8cb2ace6)
 
 
 ## Acerca de mí
-![foto](https://github.com/user-attachments/assets/c609cbcc-1650-4dfc-9dc4-a152026b0ce6.jpg)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
