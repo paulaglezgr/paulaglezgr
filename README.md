@@ -14,5 +14,5 @@
 
 ## Contáctame
 
-[![Email](https://img.shields.io/badge/paulaglezgr@gmail.com-5A827E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5A827E)](paulaglezgr@gmail.com)
+[![Email](https://img.shields.io/badge/paulaglezgr@gmail.com-5A827E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=5A827E)](mailto:paulaglezgr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Paula_González-3D90D7?style=for-the-badge)](https://www.linkedin.com/in/paulaglezgr/)
