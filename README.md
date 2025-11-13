@@ -1,10 +1,16 @@
-![presentacion](https://github.com/user-attachments/assets/1f1427b2-8e6f-4bec-81d6-dfedcf301e8e)
+<img width="2980" height="741" alt="fond_link" src="https://github.com/user-attachments/assets/bf46e9cd-cd4e-485f-bb27-11aadf990c96" />
 
 ## Acerca de mí
 
 Data Scientist en proceso
 
-Soy ingeniera química en transición hacia la Ciencia de Datos, con fuerte orientación analítica y pasión por convertir datos en decisiones. Actualmente desarrollo proyectos que combinan Python, SQL y estadística para resolver problemas reales mediante maching learning, análisis de datos y visualización.
+Científica de Datos con formación en Ingeniería Química, apasionada por el análisis, modelado y optimización de procesos a través de datos. Tengo experiencia en la gestión, limpieza y transformación de información, así como en el desarrollo de modelos predictivos y análisis estadístico (incluyendo técnicas como Bootstrapping).
+
+💻 Trabajo principalmente con Python (Pandas, Scikit-learn, Matplotlib), SQL y Microsoft Excel, creando soluciones basadas en evidencia que mejoran la toma de decisiones y la eficiencia de los procesos.
+
+🔍 Me caracterizo por un enfoque analítico, autodidacta y orientado a resultados, integrando la rigurosidad técnica de la ingeniería con la creatividad del análisis de datos.
+
+🚀 Interés en modelado predictivo, optimización de procesos y Ciencia de Datos aplicada a la industria.
 
 ## Habilidades
 
